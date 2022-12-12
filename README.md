@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Abdurrahman</h1>
-<h3 align="center">A passionate Mobile Software And Hardware Engineer from Nigeria India</h3>
+<h3 align="center">A passionate Mobile Software And Hardware Engineer from Nigeria</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.ibb.co/hV8n0YZ/coding.gif">
 
