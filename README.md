@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Abdurrahman</h1>
-<h3 align="center">A passionate Mobile Software And Hardware Engineer from Nigeria</h3>
+<h3 align="center">A passionate Mobile Software And Hardware Engineer from Nigeria India</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.ibb.co/hV8n0YZ/coding.gif">
 
@@ -17,29 +17,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/ibrahimhaxor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ibrahimhaxor" height="30" width="40" /></a>
-<a href="https://dev.to/ibrahimhaxor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ibrahimhaxor" height="30" width="40" /></a>
 <a href="https://twitter.com/ibrahim_haxor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ibrahim_haxor" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ibrahimhaxor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahimhaxor" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="325" height="30" width="40" /></a>
-<a href="https://codesandbox.com/ibrahimhaxor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ibrahimhaxor" height="30" width="40" /></a>
-<a href="https://kaggle.com/ibrahimhaxor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ibrahimhaxor" height="30" width="40" /></a>
 <a href="https://fb.com/ibrahimhaxor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ibrahimhaxor" height="30" width="40" /></a>
 <a href="https://instagram.com/ibrahimhaxor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibrahimhaxor" height="30" width="40" /></a>
-<a href="https://dribbble.com/ibrahimhaxor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ibrahimhaxor" height="30" width="40" /></a>
-<a href="https://www.behance.net/ibrahimhaxor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ibrahimhaxor" height="30" width="40" /></a>
-<a href="https://hashnode.com/ibrahimhaxor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="ibrahimhaxor" height="30" width="40" /></a>
 <a href="https://medium.com/@ibrahimhaxor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ibrahimhaxor" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/exploit academy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="exploit academy" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ibrahimhaxor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ibrahimhaxor" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ibrahimhaxor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ibrahimhaxor" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ibrahimhaxor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ibrahimhaxor" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ibrahimhaxor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ibrahimhaxor" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@ibrahimhaxor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ibrahimhaxor" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ibrahimhaxor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ibrahimhaxor" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/ibrahimhaxor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="ibrahimhaxor" height="30" width="40" /></a>
 <a href="https://discord.gg/ibrahimhaxor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ibrahimhaxor" height="30" width="40" /></a>
-<a href="/ibrahimhaxor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="ibrahimhaxor" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
